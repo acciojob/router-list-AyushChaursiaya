@@ -1,6 +1,7 @@
 
 import React from "react";
 import './../styles/App.css'
+import About from "./About";
 import Item1 from "./item1";
 import Item2 from './item2';
 import Item3 from './item3';
